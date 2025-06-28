@@ -13,7 +13,6 @@
 1. Клонируйте репозиторий:
     ```sh
     git clone https://github.com/yourusername/tetrika-junior.git
-    cd tetrika-junior
     ```
 2. Создание виртуального окружения
     ```sh
